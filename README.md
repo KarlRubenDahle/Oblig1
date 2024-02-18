@@ -13,4 +13,6 @@ Kort beskrivelse av applikasjon (5-10 setninger):
 This is a web-app for ordering cinema-tickets.
 It lets a user choose a film, a number of tickets,
 register a name, family name, phone number and email.
-The user can vies ordered tickets, and delete all tickets.
+The user can view ordered tickets, and delete all tickets.
+
+The input validation is not fully implementet yet, this will be finished soon :)
