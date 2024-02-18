@@ -15,4 +15,7 @@ It lets a user choose a film, a number of tickets,
 register a name, family name, phone number and email.
 The user can view ordered tickets, and delete all tickets.
 
-The input validation is not fully implementet yet, this will be finished soon :)
+The input validation is not fully implementet yet.
+The ticket sales people at the cinema thanks you being exact
+when filling out your information, as they currently have their
+hands full fixing the popcorn machine.
