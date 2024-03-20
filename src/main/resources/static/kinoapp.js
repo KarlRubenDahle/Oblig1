@@ -6,7 +6,7 @@
 
 
 //input-validation --------------------
-//Tall-validation, checks then sends to getAntall
+//Tall-validation
 function checkAntall() {
 	let tallcheck = document.getElementById("antall").value;
 	let tall = Number(tallcheck);
@@ -45,9 +45,6 @@ function checkTelefonnr() {
 	if (isNaN(tall)) {
 		document.getElementById("telefonnrMessage").innerHTML = "Må være et telefonnr";
 	} else {
-		let antall1 = document.getElementById("antall").value;
-		console.log("Valgt antall billetter er: " + antall1);
-		document.getElementById("antallMessage").innerHTML = "";
 		console.log("Telefonnr oppgitt er : " + telefonnr1);
 	}
 }
